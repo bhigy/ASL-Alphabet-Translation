@@ -1,0 +1,7 @@
+imutils
+jupyterlab
+Mediapipe
+opencv-python
+scipy
+seaborn
+tensorflow
